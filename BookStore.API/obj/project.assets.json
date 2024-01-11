@@ -3579,11 +3579,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\Fimple\\BookStore\\BookStore\\BookStore.API\\BookStore.API.csproj",
+      "projectUniqueName": "Z:\\Fimple\\BookStore\\BookStore\\BookStore\\BookStore.API\\BookStore.API.csproj",
       "projectName": "BookStore.API",
-      "projectPath": "Z:\\Fimple\\BookStore\\BookStore\\BookStore.API\\BookStore.API.csproj",
+      "projectPath": "Z:\\Fimple\\BookStore\\BookStore\\BookStore\\BookStore.API\\BookStore.API.csproj",
       "packagesPath": "C:\\Users\\Burak\\.nuget\\packages\\",
-      "outputPath": "Z:\\Fimple\\BookStore\\BookStore\\BookStore.API\\obj\\",
+      "outputPath": "Z:\\Fimple\\BookStore\\BookStore\\BookStore\\BookStore.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Burak\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -3598,11 +3598,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "Z:\\Fimple\\BookStore\\BookStore\\BookStore.Business\\BookStore.Business.csproj": {
-              "projectPath": "Z:\\Fimple\\BookStore\\BookStore\\BookStore.Business\\BookStore.Business.csproj"
+            "Z:\\Fimple\\BookStore\\BookStore\\BookStore\\BookStore.Business\\BookStore.Business.csproj": {
+              "projectPath": "Z:\\Fimple\\BookStore\\BookStore\\BookStore\\BookStore.Business\\BookStore.Business.csproj"
             },
-            "Z:\\Fimple\\BookStore\\BookStore\\BookStore.Data\\BookStore.Data.csproj": {
-              "projectPath": "Z:\\Fimple\\BookStore\\BookStore\\BookStore.Data\\BookStore.Data.csproj"
+            "Z:\\Fimple\\BookStore\\BookStore\\BookStore\\BookStore.Data\\BookStore.Data.csproj": {
+              "projectPath": "Z:\\Fimple\\BookStore\\BookStore\\BookStore\\BookStore.Data\\BookStore.Data.csproj"
             }
           }
         }

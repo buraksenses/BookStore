@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\Fimple\\BookStore\\BookStore\\BookStore.Core\\BookStore.Core.csproj",
+      "projectUniqueName": "Z:\\Fimple\\BookStore\\BookStore\\BookStore\\BookStore.Core\\BookStore.Core.csproj",
       "projectName": "BookStore.Core",
-      "projectPath": "Z:\\Fimple\\BookStore\\BookStore\\BookStore.Core\\BookStore.Core.csproj",
+      "projectPath": "Z:\\Fimple\\BookStore\\BookStore\\BookStore\\BookStore.Core\\BookStore.Core.csproj",
       "packagesPath": "C:\\Users\\Burak\\.nuget\\packages\\",
-      "outputPath": "Z:\\Fimple\\BookStore\\BookStore\\BookStore.Core\\obj\\",
+      "outputPath": "Z:\\Fimple\\BookStore\\BookStore\\BookStore\\BookStore.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Burak\\AppData\\Roaming\\NuGet\\NuGet.Config"
