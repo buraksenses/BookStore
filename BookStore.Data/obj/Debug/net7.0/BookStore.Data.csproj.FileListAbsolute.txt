@@ -1,0 +1,15 @@
+Z:\Fimple\BookStore\BookStore\BookStore.Data\bin\Debug\net7.0\BookStore.Data.deps.json
+Z:\Fimple\BookStore\BookStore\BookStore.Data\bin\Debug\net7.0\BookStore.Data.dll
+Z:\Fimple\BookStore\BookStore\BookStore.Data\bin\Debug\net7.0\BookStore.Data.pdb
+Z:\Fimple\BookStore\BookStore\BookStore.Data\bin\Debug\net7.0\BookStore.Core.dll
+Z:\Fimple\BookStore\BookStore\BookStore.Data\bin\Debug\net7.0\BookStore.Core.pdb
+Z:\Fimple\BookStore\BookStore\BookStore.Data\obj\Debug\net7.0\BookStore.Data.csproj.AssemblyReference.cache
+Z:\Fimple\BookStore\BookStore\BookStore.Data\obj\Debug\net7.0\BookStore.Data.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Fimple\BookStore\BookStore\BookStore.Data\obj\Debug\net7.0\BookStore.Data.AssemblyInfoInputs.cache
+Z:\Fimple\BookStore\BookStore\BookStore.Data\obj\Debug\net7.0\BookStore.Data.AssemblyInfo.cs
+Z:\Fimple\BookStore\BookStore\BookStore.Data\obj\Debug\net7.0\BookStore.Data.csproj.CoreCompileInputs.cache
+Z:\Fimple\BookStore\BookStore\BookStore.Data\obj\Debug\net7.0\BookStore.Data.csproj.CopyComplete
+Z:\Fimple\BookStore\BookStore\BookStore.Data\obj\Debug\net7.0\BookStore.Data.dll
+Z:\Fimple\BookStore\BookStore\BookStore.Data\obj\Debug\net7.0\refint\BookStore.Data.dll
+Z:\Fimple\BookStore\BookStore\BookStore.Data\obj\Debug\net7.0\BookStore.Data.pdb
+Z:\Fimple\BookStore\BookStore\BookStore.Data\obj\Debug\net7.0\ref\BookStore.Data.dll
